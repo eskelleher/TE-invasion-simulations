@@ -1,10 +1,11 @@
 Popsize = 2000
-Transposition_rate = 0.01
+Transposition_rate = 0.1
 Inactivation_rate = 0.001
 Max_dysgenesis = 0
 Generation = 500
 Ectopic_rate = 0
 Model = 4
+Snapshot = 500
 
 UDG
 1 1 1 1 1
